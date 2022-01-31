@@ -46,7 +46,8 @@ This is a prototype of a LCD Thermometer.
 
 ## SCHEMATIC OF THE PROJECT
 
-    I lost the project schematic when I switched PCs, so I took an image from google and edited it to look like the original schematic.
+    I lost the project schematic when I switched PCs, so I took an image from google
+    and edited it to look like the original schematic.
 
 <div id="SCHEMATIC-Image" align="left">
     <img height="300" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/937500305359241286/unknown.png">
