@@ -5,6 +5,11 @@ This is a prototype of a LCD Thermometer.
 *I do this project in the college so It's not really refined, but works*
 
 ---
+## Tips
+---
+    Use MikroC to code and compile the project, also install the software Proteus 
+    which you can simulate without the need to use the PICkit 3 or PIC K150.
+---
 
 ## What you will need to do the project:
 
@@ -45,6 +50,7 @@ This is a prototype of a LCD Thermometer.
 ---
 
 ## SCHEMATIC OF THE PROJECT
+---
 
     I lost the project schematic when I switched PCs, so I took an image from google
     and edited it to look like the original schematic.
