@@ -7,8 +7,8 @@ Prototype of an LCD Thermometer using the PIC16F877A microcontroller.
 ---
 ## Tips
 ---
-    Use MikroC to code and compile the project, also install the software Proteus 
-    which you can simulate without the need to use the PICkit 3 or PIC K150.
+    Use MikroC to code and compile the project, also install the software Proteus. 
+    With Proteus, you can simulate without the need to use the PICkit 3 or PIC K150.
 ---
 
 ## What you will need to do the project:
