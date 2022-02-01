@@ -1,4 +1,4 @@
-# LCD-Thermometer
+# LCD Thermometer
 
 Prototype of an LCD Thermometer using the PIC16F877A microcontroller.
 
