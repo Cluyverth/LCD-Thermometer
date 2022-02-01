@@ -17,7 +17,7 @@ Prototype of an LCD Thermometer using the PIC16F877A microcontroller.
     -> PIC 16F877A
     -> 4 MHz crystal
     -> LM35 temperature sensor
-    -> LCD Display 16x2
+    -> LCD Display 16x2 or LCD Display 16x3
     -> Electronic components
 
 ---
@@ -52,9 +52,21 @@ Prototype of an LCD Thermometer using the PIC16F877A microcontroller.
 ## SCHEMATIC OF THE PROJECT
 ---
 
-    I lost the project schematic when I switched PCs, so I took an image from google
-    and edited it to look like the original schematic.
+    I made two codes, one for 16x2 LCD and one for 16x3 LCD. 
+    I'm posting the code to 16x2 LCD and leaving the modification to a different display for you.
 
-<div id="SCHEMATIC-Image" align="left">
-    <img height="300" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/937500305359241286/unknown.png">
+<div id="SCHEMATIC 16x2-Image" align="left">
+    <img height="300" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/938119018789871636/circuito_do_termometro.png">
+</div>
+
+---
+
+<div id="SCHEMATIC 16x3-Image" align="left">
+    <img height="300" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/938119019481935872/DISPLAY_20X4.png">
+</div>
+
+---
+
+<div id="SCHEMATIC 16x3-Image" align="left">
+    <img height="300" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/938119019129618552/DISPLAY_20X4_2.png">
 </div>
