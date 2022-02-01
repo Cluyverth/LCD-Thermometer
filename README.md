@@ -18,7 +18,7 @@ Prototype of an LCD Thermometer using the PIC16F877A microcontroller.
     -> 4 MHz crystal
     -> LM35 temperature sensor
     -> LCD Display 16x2
-    -> Some resistors, potentiometer and buttons
+    -> Electronic components
 
 ---
 
