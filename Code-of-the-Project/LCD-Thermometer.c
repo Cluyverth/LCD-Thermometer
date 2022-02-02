@@ -1,4 +1,4 @@
-// LCD Thermometer Project by Cluyverth
+// LCD Thermometer Project
 // Hardware: PIC 16F877A with 4MHz crystal and LM35 sensor
 
 //== Display LCD comunication with the PIC 16F877A microcontroller
